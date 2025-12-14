@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Party Match-Making Queue Simulation</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Party Match-Making Queue Simulation</h1>
+    <p>
+      Monte Carlo simulation comparing two queueing algorithms for filling lobbies of size 5.
+    </p>
+  </header>
+
+  <section class="card">
+    <h2>Fill Queue (FCFS) <span class="badge">Algorithm i</span></h2>
+    <p>Parties are placed into lobbies in arrival order until a lobby reaches 5.</p>
+    <p><a href="fill_queue.html">Open Fill Queue results →</a></p>
+  </section>
+
+  <section class="card">
+    <h2>Match Queue (x with 5−x) <span class="badge">Algorithm ii</span></h2>
+    <p>Parties of size x are matched with parties of size 5−x (FIFO within each size).</p>
+    <p><a href="match_queue.html">Open Match Queue results →</a></p>
+  </section>
+
+  <section class="card">
+    <h2>Repository</h2>
+    <p><a href="https://github.com/YOUR_USERNAME/YOUR_REPO">View code on GitHub →</a></p>
+  </section>
+</body>
+</html>
