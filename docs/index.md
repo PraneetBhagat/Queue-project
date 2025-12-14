@@ -4,7 +4,7 @@
 This project uses Monte Carlo simulation to compare two algorithms:
 
 ## Fill Queue (FCFS)
-[Open Fill Queue notebook results](fill_queue.html)
+[Open Fill Queue notebook results](Fill_queue_simulation.html)
 
 ## Match Queue (Complementary match)
-[Open Match Queue notebook results](match_queue.html)
+[Open Match Queue notebook results](Match_queue_simulation.html)
