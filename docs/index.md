@@ -1,4 +1,3 @@
-# Project Website
 # Party Match-Making Queue Simulation
 
 This project uses Monte Carlo simulation to compare two algorithms:
